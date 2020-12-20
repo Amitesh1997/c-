@@ -2,7 +2,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
-ll MOD = 1e+7;
 int main(){
 	
 	int n;
